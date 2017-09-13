@@ -36,7 +36,8 @@ public class RobotGraffiti {
 	a.move(160);
 	a.setAngle(-135);
 	a.move(160);
-	a.turn(135);
+	
+	a.setAngle(135);
 	a.move(160);
 	
 	}

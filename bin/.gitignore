@@ -1,11 +1,14 @@
 /EverythingIsAweseomeRecipe
+/EverythingIsAwesome.class
+/Greeter.class
 /GreeterRecipe
 /KnockKnockRecipe
 /LastSummerRecipe
 /MorningZombieRecipe
+/RobotGraffiti.class
 /RobotGraffitiRecipe
 /RobotSquare.class
 /robot.jar
-/Greeter.class
-/EverythingIsAwesome.class
-/RobotGraffiti.class
+/KnockKnock.class
+/Checkpoint.class
+/MorningZombie.class

@@ -14,7 +14,7 @@ public class Greeter {
 	String name = JOptionPane.showInputDialog("What is you name");
 	
 	// 4. Use JOptionPane.showMessageDialog to say hi to them, e.g. Hi Jackie
-JOptionPane.showMessageDialog(null, "Hi "+name+".i");
+JOptionPane.showMessageDialog(null, "Hi "+name+".");
 
 	}
 }
